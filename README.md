@@ -1,3 +1,3 @@
 # grarStream2
 
-Landing page HTML Template.
+Landing page HTML Template using Bootstrap.
